@@ -1,0 +1,26 @@
+D:\Project\AmbitAAC\AmbitAAC\bin\Debug\AmbitAAC.exe
+D:\Project\AmbitAAC\AmbitAAC\bin\Debug\AmbitAAC.pdb
+D:\Project\AmbitAAC\AmbitAAC\obj\Debug\AmbitAAC.Form1.resources
+D:\Project\AmbitAAC\AmbitAAC\obj\Debug\AmbitAAC.Properties.Resources.resources
+D:\Project\AmbitAAC\AmbitAAC\obj\Debug\AmbitAAC.csproj.GenerateResource.Cache
+D:\Project\AmbitAAC\AmbitAAC\obj\Debug\AmbitAAC.csproj.CoreCompileInputs.cache
+D:\Project\AmbitAAC\AmbitAAC\obj\Debug\AmbitAAC.exe
+D:\Project\AmbitAAC\AmbitAAC\obj\Debug\AmbitAAC.pdb
+D:\Project\AmbitAAC\AmbitAAC\obj\Debug\AmbitAAC.csprojAssemblyReference.cache
+E:\AAC-Software\AmbitAAC\AmbitAAC\obj\Debug\AmbitAAC.Form1.resources
+E:\AAC-Software\AmbitAAC\AmbitAAC\obj\Debug\AmbitAAC.Properties.Resources.resources
+E:\AAC-Software\AmbitAAC\AmbitAAC\obj\Debug\AmbitAAC.csproj.GenerateResource.cache
+E:\AAC-Software\AmbitAAC\AmbitAAC\obj\Debug\AmbitAAC.csproj.CoreCompileInputs.cache
+E:\AAC-Software\AmbitAAC\AmbitAAC\obj\Debug\AmbitAAC.exe
+E:\AAC-Software\AmbitAAC\AmbitAAC\obj\Debug\AmbitAAC.pdb
+E:\AAC-Software\AmbitAAC\AmbitAAC\bin\Debug\AmbitAAC.exe
+E:\AAC-Software\AmbitAAC\AmbitAAC\bin\Debug\AmbitAAC.pdb
+C:\Users\60057163\Documents\My Received Files\SFCVN_SOFTWARE\AmbitAAC\AmbitAAC\bin\Debug\AmbitAAC.exe
+C:\Users\60057163\Documents\My Received Files\SFCVN_SOFTWARE\AmbitAAC\AmbitAAC\bin\Debug\AmbitAAC.pdb
+C:\Users\60057163\Documents\My Received Files\SFCVN_SOFTWARE\AmbitAAC\AmbitAAC\obj\Debug\AmbitAAC.csprojAssemblyReference.cache
+C:\Users\60057163\Documents\My Received Files\SFCVN_SOFTWARE\AmbitAAC\AmbitAAC\obj\Debug\AmbitAAC.Form1.resources
+C:\Users\60057163\Documents\My Received Files\SFCVN_SOFTWARE\AmbitAAC\AmbitAAC\obj\Debug\AmbitAAC.Properties.Resources.resources
+C:\Users\60057163\Documents\My Received Files\SFCVN_SOFTWARE\AmbitAAC\AmbitAAC\obj\Debug\AmbitAAC.csproj.GenerateResource.cache
+C:\Users\60057163\Documents\My Received Files\SFCVN_SOFTWARE\AmbitAAC\AmbitAAC\obj\Debug\AmbitAAC.csproj.CoreCompileInputs.cache
+C:\Users\60057163\Documents\My Received Files\SFCVN_SOFTWARE\AmbitAAC\AmbitAAC\obj\Debug\AmbitAAC.exe
+C:\Users\60057163\Documents\My Received Files\SFCVN_SOFTWARE\AmbitAAC\AmbitAAC\obj\Debug\AmbitAAC.pdb
